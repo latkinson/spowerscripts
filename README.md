@@ -27,7 +27,7 @@ To call our API, simply GET request to http://statusph.net:8000/input?[INFO_TYPE
 @info /
 @input URL ENCODED STRING
 
-@param MORE_INFO = Any other information that you would like to share. 
+@param MORE_INFO = Any other information that you would like to share. \n
 @info MAX LENGTH 2505
 @input URL ENCODED STRING
 
