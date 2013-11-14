@@ -17,8 +17,8 @@ To call our API, simply GET request to http://statusph.net:8000/input?[INFO_TYPE
 @info In case of duplicate locations, the newest one will override.
 @input LatLng(FLOAT,FLOAT)
 
-@param NAME = The name you are giving this input, such as the city name, a person name
-@info please do not get confused with info type. This is basically the name of your type.
+@param IMGURL = URL of an image
+@info 
 @input URL ENCODED STRING
 
 @param HEADS = The amount of heads on your location. 
