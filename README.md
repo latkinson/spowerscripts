@@ -3,6 +3,8 @@ sPowerScripts | StatusPH power scripts to help map data
 StatusPh.net is an online map and database that maps data real-time based on user and system input. We do not have any data unless it is added by users or systems.
 We created an API, which is extremely easy to use.
 
+Please make scripts that grab data from excel sheets, websites, whatever data source you can think of, and input it in our API so that people in need can search for the data they need.
+
 To call our API, simply GET request to http://statusph.net:8000/input?[INFO_TYPE,LatLng(X,Y),NAME,HEADS,CONTACT_INFORMATION,MORE_INFORMATION]
 
 @param INFO_TYPE = The type of information you are giving us. 
@@ -39,3 +41,5 @@ MORE_INFO: THIS HOSPITAL IS BROKE DOWN BECAUSE OF THE STORM (THIS%20HOSPITAL%BRO
 
 
 http://statusph.net:8000/input?[BROKEN%20HOSPITAL,LatLng(10.000,100.000),I%20AM%20A%20NAME,100,HOSPITAL%20ROAD%20A,THIS%20HOSPITAL%BROKE%DOWN%BECAUSE%OF%THE%STORM]
+
+
