@@ -28,7 +28,9 @@ To call our API, simply GET request to http://statusph.net:8000/input?[INFO_TYPE
 @input URL ENCODED STRING
 
 @param MORE_INFO = Any other information that you would like to share. 
+
 @info MAX LENGTH 2505
+
 @input URL ENCODED STRING
 
 
@@ -42,4 +44,4 @@ MORE_INFO: THIS HOSPITAL IS BROKE DOWN BECAUSE OF THE STORM (THIS%20HOSPITAL%BRO
 
 http://statusph.net:8000/input?[BROKEN%20HOSPITAL,LatLng(10.000,100.000),I%20AM%20A%20NAME,100,HOSPITAL%20ROAD%20A,THIS%20HOSPITAL%BROKE%DOWN%BECAUSE%OF%THE%STORM]
 
-
+Please commit all your scripts to this git and add a README.md to your directory so we know what you are working on.
