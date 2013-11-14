@@ -1,5 +1,7 @@
 sPowerScripts | StatusPH power scripts to help map data
 
+INFO:  http://bit.ly/PHopendata 
+
 ANY PROGRAMMER CAN HELP, THIS CAN BE DONE IN ANY LANGUAGE.
 
 StatusPh.net is an online map and database that maps data real-time based on user and system input. We do not have any data unless it is added by users or systems.
