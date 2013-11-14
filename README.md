@@ -23,14 +23,12 @@ To call our API, simply GET request to http://statusph.net:8000/input?[INFO_TYPE
 @info We can later let authorities filter by heads
 @input REGULAR INTEGER MAX LENGTH 6 (so 999.999)
 
-@param CONTACT_INFO = the contact information of the location, think about a telephone number, an address, a twitter account, a facebook account
+@param CONTACT_INFO = the contact information of the location, think about a telephone number, an address, a twitter account, a facebook account.
 @info /
 @input URL ENCODED STRING
 
 @param MORE_INFO = Any other information that you would like to share. 
-
 @info MAX LENGTH 2505
-
 @input URL ENCODED STRING
 
 
